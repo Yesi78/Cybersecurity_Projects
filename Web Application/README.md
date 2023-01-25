@@ -124,4 +124,4 @@ Azure Front Door enabled:
 ![alt text](https://github.com/Yesi78/Cybersecurity_Projects/blob/main/Web%20Application/images/Front_Door.png)
 
 WAF custom rule:
-![alt text](https://github.com/Yesi78/Cybersecurity_Projects/blob/main/Web%20Application/images/WAF.png
+![alt text](https://github.com/Yesi78/Cybersecurity_Projects/blob/main/Web%20Application/images/WAF.png)
