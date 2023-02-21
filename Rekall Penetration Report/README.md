@@ -1,2 +1,2 @@
 Throughout a week, I persistently used a variety of tools and skills I have learned to find Vulnerabilities within Rekall Corporation's web application and their Linux and Windows network. The penetration topics covered were OSINT, MITRE framework, Enumeration, Port scanning, Exploitation, Shells (bind / reverse), Lateral movement
-Persistence During this time, I used tools such as Metasploit / Meterpreter, Nmap Recon-ng, shodan.io, SearchSploit, and Netcat.
+Persistence. During this time, I used tools such as Metasploit / Meterpreter, Nmap Recon-ng, shodan.io, SearchSploit, and Netcat.
