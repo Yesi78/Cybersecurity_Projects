@@ -1,1 +1,1 @@
-
+Throughout two weeks I pentested a company called MegaCorpOne and I applied various skills I have learned to successfully find vulnerabilities within their network. The tools I used to preform this report were Metasploit/Meterpreter, msfvenom. Nmap/Zenmap, shodan.io, and Mimikatz along with OSINT. I worked in the Linux and Windows environment and performed privelage escalation aas well. 
