@@ -1,0 +1,1 @@
+In this project our group developed and designed a custom monitoring solution using Splunk to report and alert on suspicious activity from Windows Events and Apache logs to protect a fictional organization. 
